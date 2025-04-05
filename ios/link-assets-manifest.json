@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "android/app/src/main/assets/fonts/AlexBrush-Regular.ttf",
+      "sha1": "4d32639667673b34baf1e77fa1978ff44d7214b8"
+    },
+    {
+      "path": "android/app/src/main/assets/fonts/Italianno-Regular.ttf",
+      "sha1": "1d0fca4d186f74e1567d7aef33998fea1d837284"
+    }
+  ]
+}
